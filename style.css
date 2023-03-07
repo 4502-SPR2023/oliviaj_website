@@ -31,7 +31,7 @@ header {
  .nav1 a {
  	background-color: lightpink;
 /* 	display: inline-block;*/
- 	border: dotted white 1px;
+ 	border: dotted white 2px;
  	padding:.2rem;
  	border-radius: 0.1rem;
  }
@@ -150,7 +150,7 @@ footer {
 	.nav1 a {
 		background-color: lightpink;
 	 	display: block;
-	 	border: dotted white 1px;
+	 	border: dotted white 2px;
 	 	padding: .2rem;
 	 	margin: .2rem;
 	 	float: right;
