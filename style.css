@@ -11,7 +11,7 @@ header {
 }
 
 .nav1 {
-    background-color: transparent;
+    background-color: sagegreen;
 /*    position: sticky;*/
 /*    bottom: 5px; right: 5px;*/
     float: right !important;
@@ -56,7 +56,7 @@ ul {
 		justify-content: center; 
 	    align-items: center;
 	    flex-direction: column; 
-        background: lightgray;
+        background: lightpink;
         border-radius: 1em;
         padding: 1em;
         max-width: 800px;
@@ -109,7 +109,7 @@ ul {
 	}
 
 footer {
-	background-color: aquamarine;
+	background-color: emeraldgreen;
 }
 
 @media screen and (max-width: 554px){
@@ -145,7 +145,7 @@ footer {
 	.nav1 a {
 		background-color: palevioletred;
 	 	display: block;
-	 	border: dotted red 1px;
+	 	border: dotted white 1px;
 	 	padding: .2rem;
 	 	margin: .2rem;
 	 	float: right;
