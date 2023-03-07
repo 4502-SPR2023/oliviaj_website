@@ -66,16 +66,9 @@ ul {
 
 .joke {
 	font-family: 'Limelight', cursive;
+	font-color: color;
 	align-items: center;
 	width: 80%;
-
-	}
-
- .jokepunchline {
-	font-family: 'Limelight', cursive;
-	/* fallback for a  background color. */
-  background-color: #6B264B;
- align-items: center;
 
   
   /* your font color gradient. */
