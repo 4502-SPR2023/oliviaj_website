@@ -107,6 +107,7 @@ ul {
 	font-family: 'Libre Baskerville', serif;
 	text-align: center;
 	color: lightpink;
+	font-size: 10px;
 	}
 
 footer {
@@ -126,7 +127,7 @@ footer {
         color: white;
         border-radius: .1em;
         padding: 1em;
-        font-size: 1.5rem;
+        font-size: 10px;
         
     }
 
