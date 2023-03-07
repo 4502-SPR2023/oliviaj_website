@@ -15,7 +15,7 @@ header {
 /*    position: sticky;*/
 /*    bottom: 5px; right: 5px;*/
     float: right !important;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
     text-transform: uppercase;
     font-weight: 100;
     font-size: 1rem;
@@ -105,7 +105,7 @@ ul {
 
 
 .movielist {
-	font-family: 'Tilt Neon', cursive;
+	font-family: 'Libre Baskerville', serif;
 	text-align: center;
 	}
 
