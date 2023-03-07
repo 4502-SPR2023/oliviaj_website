@@ -78,15 +78,15 @@ ul {
    background-image: linear-gradient(
         45deg,
       #CF578A, 16.666%, 
-		#f0f7f3 16.666%, 
-		#e3faed 33.333%, 
-		#d6ffe8 33.333%, 
+		#f0f7f3 50%, 
+		#e3faed 50%, 
+		#d6ffe8 50%, 
 		#adedc9 50%,
 		#62b390 50%,
-		#adedc9 66.666%, 
-		#d6ffe8 66.666%, 
-		#e3faed83.333%, 
-		#f0f7f3 83.333%);
+		#adedc9 50%, 
+		#d6ffe8 50%, 
+		#e3faed 50%, 
+		#f0f7f3 50%);
   
   /* Set the background size and repeat properties. */
   background-size: 100%;
@@ -107,7 +107,7 @@ ul {
 	font-family: 'Libre Baskerville', serif;
 	text-align: center;
 	color: lightpink;
-	font-size: 10px;
+	font-size: 15px;
 	}
 
 footer {
