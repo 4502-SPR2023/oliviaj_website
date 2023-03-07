@@ -55,9 +55,9 @@ ul {
 }
 
 .maintext {
-	<h1> 
-	font-family: 'Tilt Warp', cursive;
+	<h1> font-family: 'Tilt Warp', cursive;
 	color: lightpink;
+	align-items: center;
 	</h1>
 		display: flex;
 		justify-content: center; 
@@ -159,12 +159,4 @@ footer {
 	 	padding: .2rem;
 	 	margin: .2rem;
 	 	float: right;
-	 }
-
-	.jokepunchline {
-		
-		text-shadow: white 1px 0 5px;
-
-	}
-
     }
