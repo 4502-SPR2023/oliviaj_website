@@ -32,7 +32,6 @@ text-transform: uppercase;
 .header {
 	font-family: 'Tilt Warp', cursive;
 	font-size: 20px;
-	color: lightpink;
 	align-items: center
 }
 
@@ -81,7 +80,7 @@ ul {
 }
 .joke {
 	font-family: 'Libre Baskerville', serif;
-	color: white;
+	color: lightpink;
 	text-align: center;
 	align-items: center;
 	width: 80%;
@@ -100,14 +99,14 @@ ul {
 .header2 {
 	font-family: 'Tilt Warp', cursive;
 	font-size: 20px;
-	align-items: center
 	color: lightpink;
+	align-items: center
 }
 	
 .movielist {
 	font-family: 'Libre Baskerville', serif;
 	text-align: center;
-	color: white;
+	color: lightpink;
 	font-size: 15px;
 	}
 
