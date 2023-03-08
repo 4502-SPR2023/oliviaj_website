@@ -55,6 +55,9 @@ ul {
 }
 
 .maintext {
+	<h1> color: white;
+	background-color: lightpink:
+	</h1>
 		display: flex;
 		justify-content: center; 
 	    align-items: center;
