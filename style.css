@@ -33,7 +33,7 @@ text-transform: uppercase;
 	font-family: 'Tilt Warp', cursive;
 	font-size: 20px;
 	align-items: center
-	color: white;
+	color: lightpink;
 }
 
  .nav1 a {
@@ -96,13 +96,13 @@ ul {
 	font-family: 'Tilt Warp', cursive;
 	font-size: 20px;
 	align-items: center
-	color: white;
+	color: lightpink;
 }
 	
 .movielist {
 	font-family: 'Libre Baskerville', serif;
 	text-align: center;
-	color: lightpink;
+	color: white;
 	font-size: 15px;
 	}
 
