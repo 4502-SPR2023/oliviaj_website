@@ -30,9 +30,9 @@ text-transform: uppercase;
 
   }
 .header {
-	color: lightpink;
 	font-family: 'Tilt Warp', cursive;
 	font-size: 20px;
+	color: lightpink;
 	align-items: center
 }
 
@@ -53,7 +53,6 @@ text-transform: uppercase;
 	align-items: center;
 }
 
-}
 
 a img {
 	border: none;
