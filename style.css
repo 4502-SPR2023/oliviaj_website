@@ -63,7 +63,7 @@ ul {
 	    align-items: center;
 	    flex-direction: column; 
         background: #CF578A;
-        border-radius: 1em;
+        border-radius: 0%;
         padding: 1em;
         max-width: 800px;
     }
