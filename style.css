@@ -115,6 +115,23 @@ footer {
 
 @media screen and (max-width: 554px){
 
+.header {
+	font-family: 'Tilt Warp', cursive;
+	font-size: 30px;
+	align-items: center
+}
+.emailinfo {
+	font-family: 'Limelight', cursive;
+	color: white;
+	test-align: center; 
+	align-items: center:
+}
+.header2 {
+	font-family: 'Tilt Warp', cursive;
+	font-size: 25px;
+	align-items: center
+}	
+	
 .maintext {
 		margin-top: 1rem;
 		display: flex;
