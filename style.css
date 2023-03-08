@@ -54,10 +54,11 @@ ul {
   	list-style-type: none;
 }
 
-.maintext {
-	<h1> color: white;
+h1 { 
+ 	color: white;
 	background-color: lightpink:
-	</h1>
+}
+.maintext {
 		display: flex;
 		justify-content: center; 
 	    align-items: center;
@@ -86,14 +87,13 @@ ul {
 
 }
 
-
-
-.movielist {
-	<h2>
+h2 {
 	font-family: 'Tilt Warp', cursive;
 	text-align: center;
 	color: white;
-	</h2>
+}
+
+.movielist {
 	font-family: 'Libre Baskerville', serif;
 	text-align: center;
 	color: lightpink;
