@@ -29,6 +29,12 @@ text-transform: uppercase;
   
 
   }
+.header {
+	font-family: 'Tilt Warp', cursive;
+	font-size: 20px;
+	align-items: center
+}
+
  .nav1 a {
  	background-color: lightpink;
 /* 	display: inline-block;*/
@@ -85,7 +91,12 @@ ul {
 
 }
 
-
+.header2 {
+	font-family: 'Tilt Warp', cursive;
+	font-size: 20px;
+	align-items: center
+}
+	
 .movielist {
 	font-family: 'Libre Baskerville', serif;
 	text-align: center;
