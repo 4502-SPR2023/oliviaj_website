@@ -11,14 +11,14 @@ header {
 }
 
 .nav1 {
-    background-color: hotpink;
+    background-color: transparent;
 /*    position: sticky;*/
-/*    bottom: 8px; right: 8px;*/
+/*    bottom: 5px; right: 5px;*/
     float: center !important;
     font-family: 'Libre Baskerville', serif;
     text-transform: uppercase;
-    font-weight: 50;
-    font-size: 10px;
+    font-weight: 100;
+    font-size: 1rem;
     max-width: 100%;
     min-width: 30%;
   /*  margin: 5rem;*/
@@ -59,16 +59,15 @@ ul {
 		justify-content: center; 
 	    align-items: center;
 	    flex-direction: column; 
-        background:  #CF578A;
+        background: #CF578A;
         border-radius: 1em;
         padding: 1em;
         max-width: 800px;
-        
     }
 
 .joke {
 	font-family: 'Limelight', cursive;
-	font-color: #white;
+	font-color: white;
 	text-align: center;
 	align-items: center;
 	width: 80%;
