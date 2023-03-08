@@ -30,10 +30,10 @@ text-transform: uppercase;
 
   }
 .header {
+	color: lightpink;
 	font-family: 'Tilt Warp', cursive;
 	font-size: 20px;
 	align-items: center
-	color: lightpink;
 }
 
  .nav1 a {
@@ -74,13 +74,19 @@ ul {
         max-width: 800px;
     }
 
-.joke {
+.emailinfo {
 	font-family: 'Limelight', cursive;
+	color: white;
+	test-align: center; 
+	align-items: center:
+}
+.joke {
+	font-family: 'Libre Baskerville', serif;
 	color: white;
 	text-align: center;
 	align-items: center;
 	width: 80%;
-	
+
   /* Set the background size and repeat properties. */
   background-size: 100%;
   background-repeat: repeat;
